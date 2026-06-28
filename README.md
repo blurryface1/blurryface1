@@ -15,3 +15,13 @@
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+---
+
+### 🔥 GitHub Roast
+
+<p>
+  <a href="https://githubroast.dev/u/blurryface1">
+    <img src="https://githubroast.dev/api/card/blurryface1" alt="GitHub Roast" width="600" />
+  </a>
+</p>
